@@ -1,0 +1,11 @@
+.new_custom_price {
+	float: left;
+    margin: 0 4px 0 0;
+}
+.new_custom_price #new_price {
+	max-width: 70px;
+	text-align: center;
+	border: 1px solid #444;
+    border-radius: 5px;
+    height: 45px;
+}
